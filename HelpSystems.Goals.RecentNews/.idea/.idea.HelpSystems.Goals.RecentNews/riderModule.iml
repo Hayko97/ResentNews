@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews.Core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Helpsystems.Goals.RecentNews.Desktop" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../packages/SQLitePCLRaw.lib.e_sqlite3.v110_xp.1.1.5/runtimes/win7-x64/native/e_sqlite3.dll" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../packages/SQLitePCLRaw.lib.e_sqlite3.v110_xp.1.1.5/runtimes/win7-x86/native/e_sqlite3.dll" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews.Core/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews.Core/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HelpSystems.Goals.RecentNews/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Helpsystems.Goals.RecentNews.Desktop/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Helpsystems.Goals.RecentNews.Desktop/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
